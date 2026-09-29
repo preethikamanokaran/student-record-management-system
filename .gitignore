@@ -1,10 +1,10 @@
 # Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
 backend/venv/
-backend/__pycache__/
-backend/*/__pycache__/
-backend/*/*/__pycache__/
-backend/*.pyc
-backend/*.db
 backend/uploads/*
 !backend/uploads/.gitkeep
 
